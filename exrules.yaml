@@ -1,0 +1,7 @@
+# NAME: extension rules
+payload:
+  - DOMAIN-SUFFIX,opensubtitles.com
+  - DOMAIN-SUFFIX,fastcdn.com
+  - DOMAIN-SUFFIX,apdcdn.com
+  - DOMAIN-SUFFIX,ovscdns.com
+  - DOMAIN-SUFFIX,jump-game.com

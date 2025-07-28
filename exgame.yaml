@@ -1,0 +1,12 @@
+# NAME: extension rules
+payload:
+  - DOMAIN,api.bethesda.net
+  - DOMAIN,services.bethesda.net
+  - DOMAIN-SUFFIX,bethesda.net
+  - DOMAIN-SUFFIX,playfabapi.com
+  - DOMAIN-SUFFIX,zionprod.systems
+  - DOMAIN-SUFFIX,doom.amok.systems
+  - DOMAIN,runtime-config.platform.ghost.idtech.services
+  - DOMAIN-SUFFIX,idtech.services
+  - DOMAIN-SUFFIX,playfabapi.com
+  - DOMAIN-SUFFIX,aerofly.com
